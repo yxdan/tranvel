@@ -1,15 +1,17 @@
 <template>
   <div>
-    这是首页
+    hello world
   </div>
 </template>
 
 <script>
 export default {
-  name:"Home"
+  name: 'Home'
 }
 </script>
 
 <style scoped>
-
+    .home{
+      color:red;
+    }
 </style>
